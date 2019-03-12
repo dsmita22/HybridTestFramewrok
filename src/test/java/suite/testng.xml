@@ -16,7 +16,7 @@
         <parameter name="perf" value="NO"/>
         <classes>
 
-            <class name="com.TestDefinitionLayer.TC002_GURU_Login"/>
+            <class name="com.TestDefinitionLayer.TC003_GURU_Home"/>
 
         </classes>
     </test>
