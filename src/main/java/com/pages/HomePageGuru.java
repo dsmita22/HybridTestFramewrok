@@ -57,8 +57,8 @@ public class HomePageGuru extends UserActions {
             clear(editpageCurrectPass);
             enter(editpageCurrectPass,"123456");
             click(saveButton);
-            //mouseOver(accountClick);
-            //click(logout);
+            mouseOver(accountClick);
+            click(logout);
         } catch (Exception e) {
             logger.error(e);
         }

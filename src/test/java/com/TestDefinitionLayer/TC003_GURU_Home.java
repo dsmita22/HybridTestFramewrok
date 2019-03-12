@@ -19,7 +19,6 @@ public class TC003_GURU_Home extends UserActions {
     public void TestLogin() {
 
         String tName = "TC003_GURU_Home";
-
         HomePageGuru homePages = new HomePageGuru();
 
         ExtentTestManager.startTest("Test1","Test Description guru");
